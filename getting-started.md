@@ -1,4 +1,4 @@
-[TOC](./index.md)
+[Table of Contents](./index.md)
 
 ## Getting Started
 
