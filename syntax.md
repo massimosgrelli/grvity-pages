@@ -1,3 +1,5 @@
+[Table of Contents](./index.md)
+
 ## Syntax
 
 Gravity syntax is designed to be familiar to people coming from C-like languages like Javascript, Swift, C++, C# and many more. We started working on this new language a year before Apple announced Swift and we were happily surprised to discovered how similar both syntax appear. Semicolon separator ; is optional. 
