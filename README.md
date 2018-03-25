@@ -1,5 +1,6 @@
 # grvity-pages
 Grvity Language Documentation
 
+[Introduction](./introduction.md)
 
-Testing Github Pages to document a new language 
+[Getting Started](./getting-started.md)
