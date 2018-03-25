@@ -1,4 +1,4 @@
-[TOC](./..)
+[TOC](./index.md)
 
 ## Getting Started
 
