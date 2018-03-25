@@ -1,9 +1,10 @@
-## TABLE OF CONTENTS
+## Introduction
 
 [Introduction](./introduction.md)
+
 [Getting Started](./getting-started.md)
 
-### LANGUAGE GUIDE
+## Language Guide
 
 [Syntax](./syntax.md)
 
