@@ -1,7 +1,6 @@
 ## TABLE OF CONTENTS
 
 [Introduction](./introduction.md)
-
 [Getting Started](./getting-started.md)
 
 ### LANGUAGE GUIDE
